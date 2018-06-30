@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+html {
+	background-color: #000;
+}
+
+#container_main {
+	background-color: #4c993d;
+	text-align: center;
+	border: 1px solid black;
+	width: 50%;
+	margin: 10% 20% 0% 20%;
+	padding: 5%;
+}
+
+p {
+	font-weight: bold;
+}
+
+input[type=submit] {
+	background-color: #fff;
+	width: 50%;
+	height: 5%;
+}
+
+hr {
+	border-color: #fff;
+
+}
